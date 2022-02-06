@@ -1,0 +1,17 @@
+file steps format:
+Each row in the file represents one step in the game as follows:
+Pacman:% Ghost%:%%%%%  Ghost1:%%%%%%  Ghost2::%%%%%%  Ghost3::%%%%%%  Fruit:ON|START|OFF
+explain for the percentages:
+#Pacman:% - the precentage is using for a char that represent the user input - could by any char!
+#Ghost% - the precentage is using for ghost index - could by num between 0 - 4.
+#:%%%%% - the precentages is using for creature dircetion - could be LEFT |RIGHT|UP   |DOWN |STAY . (notice to add white space if the direction size is less then 5)
+#if fruit mode is "ON|", the format is as mentioned at note :%%%%% for add direction for the fruit.
+#if fruit mode is "START|", then the format is:  %|(%%,%%) - the first precentage is for the value of the fruit, and then enter (row,col) for initiliaze position.
+#if fruit mode is "OFF" - then do not add anything else!
+
+
+result steps format:
+#points of time for this screen where pacman died (if any) format is: 
+"The pacman died after: %%%% steps" - the percentages Represent the count of steps.
+#point of time for this screen where pacman finished the screen format is:
+"The pacman finished the screen after: %%%% steps" - the percentages Represent the count of steps.
