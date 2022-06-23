@@ -10,6 +10,10 @@ An Pacman game implemented in C++ version 11 to console application.
 ## Features
 ### Build your own board
 You can build the game board you want to play on but pay attention to the board format: the @ sign to Pacman, the $ sign to the wind, and the # sign for a wall. Additionally the board should be saved in a txt file with the extension: .screen.txt
+
+### Screens
+Play several screens in a row' or a specific screen by screen name
+
 ### Game mode
 choose one of the following modes:
 - Simple mode - Play the game normally without recording
