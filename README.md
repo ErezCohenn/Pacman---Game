@@ -21,4 +21,4 @@ choose one of the following modes:
 ![Game mode  polymorphism diagram](https://user-images.githubusercontent.com/80786728/175306537-6ccd66d0-6d26-4a87-9e65-f44a463f2725.png)
 
 ## Its Demo Time
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/80786728/175308465-7d5f1e6c-0cb5-4ae4-9cdb-3f80c55a8dbf.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80786728/175308723-ceb653e2-4af1-4a0f-91d5-3ed347deddd5.gif)
