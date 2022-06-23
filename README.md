@@ -17,5 +17,8 @@ choose one of the following modes:
 - Load mode - Run a record for a game withoud playing
 - Silent mode - Run a record of a game without playing and without seeing the record (only for testing)
 
-[Game mode  polymorphism diagram](https://user-images.githubusercontent.com/80786728/175306537-6ccd66d0-6d26-4a87-9e65-f44a463f2725.png)
+#### Game mode  polymorphism diagram:
+![Game mode  polymorphism diagram](https://user-images.githubusercontent.com/80786728/175306537-6ccd66d0-6d26-4a87-9e65-f44a463f2725.png)
 
+## Its Demo Time
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80786728/175308465-7d5f1e6c-0cb5-4ae4-9cdb-3f80c55a8dbf.gif)
